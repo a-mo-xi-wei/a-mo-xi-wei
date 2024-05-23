@@ -12,10 +12,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=pictureGame)](https://github.com/a-mo-xi-wei/pictureGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=pushBox)](https://github.com/a-mo-xi-wei/pushBox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Snake)](https://github.com/a-mo-xi-wei/Snake)
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Calculator" />
+<a href="https://github.com/a-mo-xi-wei/Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Calculator"/>
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Calculator)](https://github.com/a-mo-xi-wei/Calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Cool_Login_Interface)](https://github.com/a-mo-xi-wei/Cool_Login_Interface)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Wallpape)](https://github.com/a-mo-xi-wei/Wallpape)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=userPrivilegeManagerSystem)](https://github.com/a-mo-xi-wei/userPrivilegeManagerSystem)
