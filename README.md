@@ -5,7 +5,7 @@
 - 📫 How to reach me : 1428206861@qq.com
 - 
   <!--them : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mo-xi-wei&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mo-xi-wei&show_icons=true&theme=gruvbox)
 <!--repo-->
 <a href="https://github.com/a-mo-xi-wei/love-heart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=love-heart"/>
