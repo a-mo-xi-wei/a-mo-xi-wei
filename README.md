@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mo-xi-wei&show_icons=true&theme=gruvbox)
 <!--repo-->
 <a href="https://github.com/a-mo-xi-wei/love-heart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=love-heart"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=love-heart&theme=tokyonight"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/water-wave">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=water-wave"/>
