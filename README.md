@@ -39,4 +39,4 @@
 </a>
 
 <!--language-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-xi-wei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-xi-wei&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
