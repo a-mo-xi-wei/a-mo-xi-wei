@@ -17,5 +17,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Wallpape)](https://github.com/a-mo-xi-wei/Wallpape)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=userPrivilegeManagerSystem)](https://github.com/a-mo-xi-wei/userPrivilegeManagerSystem)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Coinflip)](https://github.com/a-mo-xi-wei/Coinflip)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-xi-wei)](https://github.com/anuraghazra/github-readme-stats)
+<!--language-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-xi-wei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
