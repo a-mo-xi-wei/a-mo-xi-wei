@@ -29,13 +29,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Cool_Login_Interface&theme=merko"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/Wallpape">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Wallpape&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Wallpape&theme=dark"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/userPrivilegeManagerSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=userPrivilegeManagerSystem&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=userPrivilegeManagerSystem&theme=radical"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/Coinflip">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Coinflip&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Coinflip&theme=merko"/>
 </a>
 
 <!--language-->
