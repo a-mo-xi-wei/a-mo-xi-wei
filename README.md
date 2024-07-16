@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-mo-xi-wei
 - 👀 I’m interested in coding and ping-pong
-- 🌱 I’m currently learning <font color=red> Qt，音视频</font>
+- 🌱 I’m currently learning <p style="font-color:green;background-color:yellow"> Qt，音视频</p>
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me : 1428206861@qq.com
 - 
