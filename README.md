@@ -10,23 +10,23 @@
 <a href="https://github.com/a-mo-xi-wei/userPrivilegeManagerSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=userPrivilegeManagerSystem&theme=radical"/>
 </a>
-<a href="https://github.com/a-mo-xi-wei/water-wave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=water-wave&theme=tokyonight"/>
+<a href="https://github.com/a-mo-xi-wei/ShoppingStoreApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=ShoppingStoreApp&theme=tokyonight"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/pictureGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=pictureGame&theme=onedark"/>
 </a>
-<a href="https://github.com/a-mo-xi-wei/ShoppingStoreApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=pushBox&theme=synthwave"/>
+<a href="https://github.com/a-mo-xi-wei/water-wave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=water-wave&theme=synthwave"/>
 </a>
-<a href="https://github.com/a-mo-xi-wei/Snake">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Snake&theme=highcontrast"/>
+<a href="https://github.com/a-mo-xi-wei/Cool_Login_Interface">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Cool_Login_Interface&theme=highcontrast"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Calculator&theme=dracula"/>
 </a>
-<a href="https://github.com/a-mo-xi-wei/Cool_Login_Interface">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Cool_Login_Interface&theme=merko"/>
+<a href="https://github.com/a-mo-xi-wei/Snake">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Snake&theme=merko"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/Wallpape">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Wallpape&theme=dark"/>
@@ -36,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=love-heart&theme=cobalt"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/easy-player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Coinflip&theme=merko"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=easy-player&theme=merko"/>
 </a>
 
 <!--language-->
