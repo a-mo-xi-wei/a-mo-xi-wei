@@ -7,8 +7,8 @@
   <!--them : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mo-xi-wei&show_icons=true&theme=gruvbox&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 <!--repo-->
-<a href="https://github.com/a-mo-xi-wei/love-heart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=love-heart&theme=cobalt"/>
+<a href="https://github.com/a-mo-xi-wei/userPrivilegeManagerSystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=userPrivilegeManagerSystem&theme=radical"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/water-wave">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=water-wave&theme=tokyonight"/>
@@ -16,7 +16,7 @@
 <a href="https://github.com/a-mo-xi-wei/pictureGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=pictureGame&theme=onedark"/>
 </a>
-<a href="https://github.com/a-mo-xi-wei/pushBox">
+<a href="https://github.com/a-mo-xi-wei/ShoppingStoreApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=pushBox&theme=synthwave"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/Snake">
@@ -31,10 +31,11 @@
 <a href="https://github.com/a-mo-xi-wei/Wallpape">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Wallpape&theme=dark"/>
 </a>
-<a href="https://github.com/a-mo-xi-wei/userPrivilegeManagerSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=userPrivilegeManagerSystem&theme=radical"/>
+
+<a href="https://github.com/a-mo-xi-wei/love-heart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=love-heart&theme=cobalt"/>
 </a>
-<a href="https://github.com/a-mo-xi-wei/Coinflip">
+<a href="https://github.com/a-mo-xi-wei/easy-player">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Coinflip&theme=merko"/>
 </a>
 
