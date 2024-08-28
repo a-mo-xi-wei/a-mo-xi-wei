@@ -13,6 +13,12 @@
 <a href="https://github.com/a-mo-xi-wei/ShoppingStoreApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=ShoppingStoreApp&theme=tokyonight"/>
 </a>
+<a href="https://github.com/a-mo-xi-wei/ffmpeg-VideoPlayer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=ffmpeg-VideoPlayer&theme=cobalt"/>
+</a>
+<a href="https://github.com/a-mo-xi-wei/easy-player">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=easy-player&theme=merko"/>
+</a>
 <a href="https://github.com/a-mo-xi-wei/pictureGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=pictureGame&theme=onedark"/>
 </a>
@@ -31,13 +37,5 @@
 <a href="https://github.com/a-mo-xi-wei/Wallpape">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Wallpape&theme=dark"/>
 </a>
-
-<a href="https://github.com/a-mo-xi-wei/ffmpeg-VideoPlayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=ffmpeg-VideoPlayer&theme=cobalt"/>
-</a>
-<a href="https://github.com/a-mo-xi-wei/easy-player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=easy-player&theme=merko"/>
-</a>
-
 <!--language-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-mo-xi-wei&layout=compact&theme=synthwave&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
