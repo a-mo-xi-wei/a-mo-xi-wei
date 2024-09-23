@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and ping-pong
 - 🌱 I’m currently learning <b> Qt，音视频</b>
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me : 1428206861@qq.com
+- 📫 How to reach me : 1428206861@qq.com OR ww1428206861@gmail.com
 - ![](https://komarev.com/ghpvc/?username=a-mo-xi-wei&color=blueviolet&base=1000)
   <!--them : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mo-xi-wei&show_icons=true&theme=gruvbox&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
