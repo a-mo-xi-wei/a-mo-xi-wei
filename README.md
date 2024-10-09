@@ -19,6 +19,9 @@
 <a href="https://github.com/a-mo-xi-wei/easy-player">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=easy-player&theme=merko"/>
 </a>
+<a href="https://github.com/a-mo-xi-wei/KuGouApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=pictureGame&theme=dracula"/>
+</a>
 <a href="https://github.com/a-mo-xi-wei/pictureGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=pictureGame&theme=onedark"/>
 </a>
