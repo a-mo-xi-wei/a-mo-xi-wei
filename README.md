@@ -10,8 +10,8 @@
 <a href="https://github.com/a-mo-xi-wei/userPrivilegeManagerSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=userPrivilegeManagerSystem&theme=radical"/>
 </a>
-<a href="https://github.com/a-mo-xi-wei/ShoppingStoreApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=ShoppingStoreApp&theme=tokyonight"/>
+<a href="https://github.com/a-mo-xi-wei/KuGouApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=KuGouApp&theme=dracula"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/ffmpeg-VideoPlayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=ffmpeg-VideoPlayer&theme=cobalt"/>
@@ -19,8 +19,8 @@
 <a href="https://github.com/a-mo-xi-wei/easy-player">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=easy-player&theme=merko"/>
 </a>
-<a href="https://github.com/a-mo-xi-wei/KuGouApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=KuGouApp&theme=dracula"/>
+<a href="https://github.com/a-mo-xi-wei/ShoppingStoreApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=ShoppingStoreApp&theme=tokyonight"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/pictureGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=pictureGame&theme=onedark"/>
