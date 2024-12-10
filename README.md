@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-mo-xi-wei
 - 👀 I’m interested in coding and ping-pong
-- 🌱 I’m currently learning <b> Qt，音视频</b>
+- 🌱 I’m currently learning <b> Qt，音视频，爬虫</b>
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me : 1428206861@qq.com OR ww1428206861@gmail.com
 - ![](https://komarev.com/ghpvc/?username=a-mo-xi-wei&color=blueviolet&base=1000)
