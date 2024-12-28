@@ -7,11 +7,11 @@
   <!--them : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-mo-xi-wei&show_icons=true&theme=gruvbox&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
 <!--repo-->
-<a href="https://github.com/a-mo-xi-wei/userPrivilegeManagerSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=userPrivilegeManagerSystem&theme=radical"/>
-</a>
 <a href="https://github.com/a-mo-xi-wei/KuGouApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=KuGouApp&theme=dracula"/>
+</a>
+<a href="https://github.com/a-mo-xi-wei/userPrivilegeManagerSystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=userPrivilegeManagerSystem&theme=radical"/>
 </a>
 <a href="https://github.com/a-mo-xi-wei/ffmpeg-VideoPlayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=ffmpeg-VideoPlayer&theme=cobalt"/>
