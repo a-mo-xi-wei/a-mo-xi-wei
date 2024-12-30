@@ -34,8 +34,8 @@
 <a href="https://github.com/a-mo-xi-wei/CodeCountTool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=CodeCountTool&theme=dracula"/>
 </a>
-<a href="https://github.com/a-mo-xi-wei/Wallpape">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Wallpape&theme=dark"/>
+<a href="https://github.com/a-mo-xi-wei/Wallpaper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=a-mo-xi-wei&repo=Wallpaper&theme=dark"/>
 </a>
 
 <!--language-->
